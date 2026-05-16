@@ -110,10 +110,25 @@ The family wraps the *rails*; code-writing stays in your IDE. Three MCPs, one pi
 
 ---
 
-### GitHub
+### Stats
 
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=kao273183&show_icons=true&theme=transparent&hide_border=true&icon_color=D4A843&title_color=D4A843&text_color=586069)](https://github.com/kao273183)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kao273183&layout=compact&theme=transparent&hide_border=true&title_color=D4A843&text_color=586069)](https://github.com/kao273183)
+<p>
+  <img src="https://img.shields.io/github/followers/kao273183?label=Followers&style=for-the-badge&color=D4A843&labelColor=0D1117" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=kao273183&style=for-the-badge&color=D4A843&label=Profile+views" alt="Profile views" />
+</p>
+
+<!-- If github-readme-stats.vercel.app ever stops 503-ing, you can re-enable
+     the stats cards by uncommenting these:
+
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=kao273183&show_icons=true&hide_border=true&bg_color=00000000&icon_color=D4A843&title_color=D4A843&text_color=8B949E)](https://github.com/kao273183)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kao273183&layout=compact&hide_border=true&bg_color=00000000&title_color=D4A843&text_color=8B949E)](https://github.com/kao273183)
+
+The cards rely on github-readme-stats.vercel.app, which is rate-limited on
+the public free tier and 503s frequently. For a reliable version, fork
+github-readme-stats and deploy to your own Vercel account, then point
+these URLs at <your-deployment>.vercel.app instead.
+-->
+
 
 ---
 
