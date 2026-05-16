@@ -1,0 +1,26 @@
+name: Latest blog posts
+
+# Auto-pulls latest 5 posts from your Dev.to RSS feed and rewrites the
+# README between the <!-- BLOG-POST-LIST:START --> / END markers.
+# Runs once an hour and on manual dispatch.
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest from Dev.to
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/kao273183"
+          max_post_count: 5
+          template: "- [$title]($url) · $date"
