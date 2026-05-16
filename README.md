@@ -16,6 +16,19 @@
 
 ---
 
+### About me
+
+QA engineer by trade. I spend my days writing tests, and my evenings shipping the tools I wish those tests had.
+
+Two parallel tracks:
+
+- **Open source** — the `mk-*` MCP family for the full AI dev pipeline (cards below).
+- **Apps** — `吃吃帖` (location-based foodie community) and `別扣我` (driver's dashboard / speed-cam companion), both on iOS + Android.
+
+Hobby is the same as work — build software, chase new tech, try to make QA simpler. Less *"AI replaces testers"* hype, more *"the next round of tests is one prompt away."*
+
+---
+
 ### What I'm building
 
 Open-source MCP servers for the AI-driven dev pipeline. Each member owns one stage:
@@ -73,6 +86,41 @@ The family wraps the *rails*; code-writing stays in your IDE. Three MCPs, one pi
 
 ---
 
+### Apps I ship
+
+Two indie apps I built, maintain, and dogfood every day. Both iOS + Android.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>吃吃帖</strong> <em>· chichitie</em>
+      <br/>
+      <sub>Location-based foodie community — see what's good nearby, share what you found, follow what your friends loved.</sub>
+      <br/><br/>
+      <a href="https://apps.apple.com/tw/app/%E5%90%83%E5%90%83%E5%B8%96/id6758126443">
+        <img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store" />
+      </a>
+      <a href="https://play.google.com/store/apps/details?id=com.antigravity.foodie_map">
+        <img src="https://img.shields.io/badge/Google%20Play-Get%20it-414141?style=flat&logo=google-play&logoColor=white" alt="Google Play" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <strong>別扣我</strong> <em>· nokou</em>
+      <br/>
+      <sub>A driver's mobile dashboard — real-time speed, speed-cam alerts, keep your license points off the chopping block.</sub>
+      <br/><br/>
+      <a href="https://apps.apple.com/tw/app/%E5%88%A5%E6%89%A3%E6%88%91-%E4%BD%A0%E7%9A%84%E8%A1%8C%E5%8B%95%E5%84%80%E8%A1%A8%E6%9D%BF/id6758271584">
+        <img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store" />
+      </a>
+      <a href="https://play.google.com/store/apps/details?id=com.minikao.speed_defense_system">
+        <img src="https://img.shields.io/badge/Google%20Play-Get%20it-414141?style=flat&logo=google-play&logoColor=white" alt="Google Play" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### What I work with
 
 **QA / test automation**
@@ -90,6 +138,13 @@ The family wraps the *rails*; code-writing stays in your IDE. Three MCPs, one pi
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
 ![Codex](https://img.shields.io/badge/Codex%20CLI-412991?style=flat)
+
+**Mobile**
+<br/>
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 **Languages + tooling**
 <br/>
