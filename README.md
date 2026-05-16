@@ -157,9 +157,7 @@ Two indie apps I built, maintain, and dogfood every day. Both iOS + Android.
 
 ### Latest writing
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This list is auto-populated by the Dev.to RSS workflow at .github/workflows/blog.yml -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [I&#39;m a QA engineer. After Claude wrote # TODO in my 100th test, I built an MCP server.](https://dev.to/kao273183/im-a-qa-engineer-after-claude-wrote-todo-in-my-100th-test-i-built-an-mcp-server-3c4l) · Sat May 16 2026 7:32 PM<!-- BLOG-POST-LIST:END -->
 
 [See more on Dev.to →](https://dev.to/kao273183)
 
