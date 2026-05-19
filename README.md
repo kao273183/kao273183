@@ -157,7 +157,7 @@ Two indie apps I built, maintain, and dogfood every day. Both iOS + Android.
 
 ### Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [Claude can drive Schemathesis + Postman through one MCP — I shipped both runners in one day](https://dev.to/kao273183/claude-can-drive-schemathesis-postman-through-one-mcp-i-shipped-both-runners-in-one-day-4m4) · Sun May 17 2026 2:18 PM- [I&#39;m a QA engineer. After Claude wrote # TODO in my 100th test, I built an MCP server.](https://dev.to/kao273183/im-a-qa-engineer-after-claude-wrote-todo-in-my-100th-test-i-built-an-mcp-server-3c4l) · Sat May 16 2026 7:32 PM<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [The 10% CAPTCHA problem in QA — and why your AI solver should refuse Google login](https://dev.to/kao273183/the-10-captcha-problem-in-qa-and-why-your-ai-solver-should-refuse-google-login-3aoe) · Tue May 19 2026 8:34 AM- [Claude can drive Schemathesis + Postman through one MCP — I shipped both runners in one day](https://dev.to/kao273183/claude-can-drive-schemathesis-postman-through-one-mcp-i-shipped-both-runners-in-one-day-4m4) · Sun May 17 2026 2:18 PM- [I&#39;m a QA engineer. After Claude wrote # TODO in my 100th test, I built an MCP server.](https://dev.to/kao273183/im-a-qa-engineer-after-claude-wrote-todo-in-my-100th-test-i-built-an-mcp-server-3c4l) · Sat May 16 2026 7:32 PM<!-- BLOG-POST-LIST:END -->
 
 [See more on Dev.to →](https://dev.to/kao273183)
 
