@@ -158,6 +158,12 @@ Two indie apps I built, maintain, and dogfood every day. Both iOS + Android.
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Edge AI from an MCP tool: I pointed mk-qa-master at my webcam and YOLO answered](https://dev.to/kao273183/testing-edge-ai-from-an-mcp-tool-i-pointed-mk-qa-master-at-my-webcam-and-yolo-answered-4gj3) · Thu Jun 04 2026 1:02 AM
+- [From mock-only-works to real-world-works: 48 hours of reCAPTCHA debugging](https://dev.to/kao273183/from-mock-only-works-to-real-world-works-48-hours-of-recaptcha-debugging-d6e) · Mon May 25 2026 2:46 AM
+- [I open-sourced 24 QA skills for Claude Code — from spec to release](https://dev.to/kao273183/i-open-sourced-24-qa-skills-for-claude-code-from-spec-to-release-2d57) · Fri May 22 2026 3:16 AM
+- [The 10% CAPTCHA problem in QA — and why your AI solver should refuse Google login](https://dev.to/kao273183/the-10-captcha-problem-in-qa-and-why-your-ai-solver-should-refuse-google-login-3aoe) · Tue May 19 2026 8:34 AM
+- [Claude can drive Schemathesis + Postman through one MCP — I shipped both runners in one day](https://dev.to/kao273183/claude-can-drive-schemathesis-postman-through-one-mcp-i-shipped-both-runners-in-one-day-4m4) · Sun May 17 2026 2:18 PM
+
 <!-- BLOG-POST-LIST:END -->
 
 [See more on Dev.to →](https://dev.to/kao273183)
