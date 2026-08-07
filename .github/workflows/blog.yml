@@ -23,4 +23,5 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/kao273183"
           max_post_count: 5
-          template: "- [$title]($url) · $date"
+          template: "- [$title]($url) · $date$newline"
+          tag_post_pre_newline: true

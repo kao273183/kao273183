@@ -157,6 +157,8 @@ Two indie apps I built, maintain, and dogfood every day. Both iOS + Android.
 
 ### Latest writing
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [See more on Dev.to →](https://dev.to/kao273183)
 
